@@ -1,7 +1,7 @@
 # Calculando Resultado da **Premier League 2023-2024**
 __________________________________________________________________________________________________
 
-### Fazendo Previsões dos Resultados dos Jogos da **Premier League temporada 2023 e 2024**.
+### Calculando a Probabilidade dos Resultados dos Jogos da **Premier League temporada 2023 e 2024**.
 
 ### Ao baixar um novo arquivo o código pode ser rodado novamente e obter novas probabilidades.
 
